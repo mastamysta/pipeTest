@@ -1,7 +1,7 @@
 import sys
 
 def salads(fruits):
-    salads = [split, sandwich, delight, pie]
+    salads = ["split", "sandwich", "delight", "pie"]
     for fruit in fruits:
         for salad in salads:
             print(fruit + salad)
