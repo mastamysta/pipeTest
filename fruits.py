@@ -1,6 +1,10 @@
 def fruits():
     fruitList=["apple", "pear", "banana"]
-    print(fruitList)
+    return(fruitList)
 
 if __name__ == "__main__":
-    fruits()
+    f = fruits()
+    print(f)
+
+# def main():
+#     return(fruits())
